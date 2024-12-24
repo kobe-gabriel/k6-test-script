@@ -1,0 +1,7 @@
+
+====== Test Summary ======
+Total requests made: 1050
+Failed requests rate: 7.14%
+Successful requests rate: 92.86%
+95th percentile request duration: 17878.1223 ms
+==========================
